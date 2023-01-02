@@ -1,1 +1,29 @@
+{"name":"Retrox",
+"tokenSymbol":null,
+"DaoOS":"Snapshot",
+"address":null,
+"description":"We are building infrastructure to bring traditional research credentials on-chain and integrate them with web3. This will serve as an instrumental tool for scientific social networking, publishing and paper or funding competitions.",
+"whitePaperLink":"https://mirror.xyz/retroxblog.eth/1Reohy-au2bX2HbcI7lGMPY-YXX1Y5rgK8yOY5vf8u0",
+"gallery":[{
+       "name": "Intro",
+       "description": "Intro",
+       "mediaUrl": "https://i.imgur.com/51JLCzs.png",
+       "source": "image",
+       "link": "https://mirror.xyz/retroxblog.eth"
+   }
+],
+"deleted":false,
+"primaryColor":"#bf5af2",
+"twitterHandle":"@RetroxPGF",
+"coingeckoId":"",
+"snapshotId":"",
+"logo":"https://mirror-media.imgix.net/publication-images/spcVV1bA7_VlS4lHrV2dh.jpg",
+"telegramLink":"",
+"discordLink":"",
+"website":"https://orcidauth.vercel.app",
+"tokenDescription":"",
+"tokenTradeLink":"",
 
+"tags":["Data Storage", "Decentralized funding", "Ecosystems", "Publishing"]
+  
+}
